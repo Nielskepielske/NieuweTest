@@ -1,7 +1,12 @@
 1) Create new folder, upload a local text file to Github using te proposed commands
 2) Change content of TXT file, create new commit and push changes
+
 3) PULL repo, change file, cmmit and push file (hierbij kopier je gewoon je link waar je staat in je github)
 4)Git pull on own repo, git pull other repo.
 Change own txt file, commit and push
 Change other txt file, commit and push
 Hopefulle, merg conflect.
+
+
+EWA FAKKA 
+
