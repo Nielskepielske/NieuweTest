@@ -1,2 +1,4 @@
 1) Create new folder, upload a local text file to Github using te proposed commands
 2) Change content of TXT file, create new commit and push changes
+
+EWA FAKKA 
