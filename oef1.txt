@@ -1,0 +1,1 @@
+1) Create new folder, upload a local text file to Github using te proposed commands
